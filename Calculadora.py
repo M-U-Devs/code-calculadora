@@ -41,3 +41,7 @@ elif choice == '4':
 
 else:
    print("Opção inválida")
+
+#Nesse exemplo, cada operação matemática é realizada em sua própria função, 
+#e a opção do usuário é lida como uma entrada e usada para decidir qual função executar. 
+#Observe que o float() é usado para converter a entrada do usuário em números de ponto flutuante, para que a divisão seja feita corretamente.
